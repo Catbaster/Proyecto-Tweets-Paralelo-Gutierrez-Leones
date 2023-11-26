@@ -1,0 +1,74 @@
+{
+    "coretweets": [
+        {
+            "authors": {
+                "u1": "theordinaryman2",
+                "u2": "ecmagenda"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "MuppetV2"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "MissLauraMarcus",
+                "u2": "zesty_manutd"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "kwaku_addison_"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "BetterOffOut",
+                "u2": "JoeThorpe1963"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "OMavis67"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Dwalingen",
+                "u2": "chrisg0000"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "EURO2016",
+                "u2": "beINSPORTS"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "zezo2000380479"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "steven_winstone",
+                "u2": "PaulJamesOakley"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "HouseofTwitsUKI"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "h0t_p0ppy",
+                "u2": "orca_waves"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "GandhiJump"
+            ]
+        }
+    ]
+}
